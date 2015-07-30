@@ -1,9 +1,4 @@
----
-tags: kids, resources, if statement, if/else
-languages: ruby
-level: 1
-type: resources
----
+
 
 ### IF you need some IF resources...
 <img src="https://s3.amazonaws.com/after-school-assets/elsif.jpg" width="200px" align="right" hspace="10">...Take a look at these:
